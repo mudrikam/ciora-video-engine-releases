@@ -1,0 +1,51 @@
+{
+  "version": "0.1.104",
+  "notes": "Rilis resmi otomatis Ciora Video Engine v0.1.104.",
+  "pub_date": "2026-09-25T16:09:38.816Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaGt2d1RCUTBEM0hpOTVoUjE5UTFjQVlqb05KektvNlFtNTgvMU1RMXI0ZjJYNmY1WkZiakpleWlnWE9VRytxb1pMQTVYR3BVSE9mdE56KytnUVFCbDVHcTY4Y29ZSEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzUxODMzCWZpbGU6Q2lvcmEgVmlkZW8gRW5naW5lLmFwcC50YXIuZ3oKQWdrM1FLaGlJa1B0Q3YzSHhWdk5tSG9pTjR6TTlUcWxMMmNwSGdHaFMyYkdqV0dlK3JKTVhmZ0JKOHVLWk01SDdhSVVBWTk4M3ZtTktCdUhEYUd5QlE9PQo=",
+      "url": "https://github.com/mudrikam/ciora-video-engine-releases/releases/download/v0.1.104/Ciora.Video.Engine_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaGt2d1RCUTBEM0hpOTVoUjE5UTFjQVlqb05KektvNlFtNTgvMU1RMXI0ZjJYNmY1WkZiakpleWlnWE9VRytxb1pMQTVYR3BVSE9mdE56KytnUVFCbDVHcTY4Y29ZSEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzUxODMzCWZpbGU6Q2lvcmEgVmlkZW8gRW5naW5lLmFwcC50YXIuZ3oKQWdrM1FLaGlJa1B0Q3YzSHhWdk5tSG9pTjR6TTlUcWxMMmNwSGdHaFMyYkdqV0dlK3JKTVhmZ0JKOHVLWk01SDdhSVVBWTk4M3ZtTktCdUhEYUd5QlE9PQo=",
+      "url": "https://github.com/mudrikam/ciora-video-engine-releases/releases/download/v0.1.104/Ciora.Video.Engine_universal.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaGt2d1RCUTBEM0hpOTVoUjE5UTFjQVlqb05KektvNlFtNTgvMU1RMXI0ZjJYNmY1WkZiakpleWlnWE9VRytxb1pMQTVYR3BVSE9mdE56KytnUVFCbDVHcTY4Y29ZSEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzUxODMzCWZpbGU6Q2lvcmEgVmlkZW8gRW5naW5lLmFwcC50YXIuZ3oKQWdrM1FLaGlJa1B0Q3YzSHhWdk5tSG9pTjR6TTlUcWxMMmNwSGdHaFMyYkdqV0dlK3JKTVhmZ0JKOHVLWk01SDdhSVVBWTk4M3ZtTktCdUhEYUd5QlE9PQo=",
+      "url": "https://github.com/mudrikam/ciora-video-engine-releases/releases/download/v0.1.104/Ciora.Video.Engine_universal.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaGt2d1RCUTBEM0hpOTVoUjE5UTFjQVlqb05KektvNlFtNTgvMU1RMXI0ZjJYNmY1WkZiakpleWlnWE9VRytxb1pMQTVYR3BVSE9mdE56KytnUVFCbDVHcTY4Y29ZSEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzUxODMzCWZpbGU6Q2lvcmEgVmlkZW8gRW5naW5lLmFwcC50YXIuZ3oKQWdrM1FLaGlJa1B0Q3YzSHhWdk5tSG9pTjR6TTlUcWxMMmNwSGdHaFMyYkdqV0dlK3JKTVhmZ0JKOHVLWk01SDdhSVVBWTk4M3ZtTktCdUhEYUd5QlE9PQo=",
+      "url": "https://github.com/mudrikam/ciora-video-engine-releases/releases/download/v0.1.104/Ciora.Video.Engine_universal.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaGt2d1RCUTBEM0lzblRwUkZwUXBxVXY4Rk1iU1E4NjRJVmcyaElGdER0UXoybnRvbHdYUFA3MFJ5SmFxY1VpL29vRVFLOGNwd1BxL1hOa0lRUFE2dHMzdEU0Z05FYVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzUyMjcyCWZpbGU6Q2lvcmEgVmlkZW8gRW5naW5lXzAuMS4xMDRfYW1kNjQuQXBwSW1hZ2UKMnU2bWo2YUtFbkk3WHJVT3MwNldUeGRhV3lrRnJEcXdoMVBvaFk2N3lhZVM1V3dJRlpNNzlmVm9PcnhGc2p5T1F6SVBCbHFzSG9oMXBONTFpalZyQXc9PQo=",
+      "url": "https://github.com/mudrikam/ciora-video-engine-releases/releases/download/v0.1.104/Ciora.Video.Engine_0.1.104_amd64.AppImage"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaGt2d1RCUTBEM0lzblRwUkZwUXBxVXY4Rk1iU1E4NjRJVmcyaElGdER0UXoybnRvbHdYUFA3MFJ5SmFxY1VpL29vRVFLOGNwd1BxL1hOa0lRUFE2dHMzdEU0Z05FYVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzUyMjcyCWZpbGU6Q2lvcmEgVmlkZW8gRW5naW5lXzAuMS4xMDRfYW1kNjQuQXBwSW1hZ2UKMnU2bWo2YUtFbkk3WHJVT3MwNldUeGRhV3lrRnJEcXdoMVBvaFk2N3lhZVM1V3dJRlpNNzlmVm9PcnhGc2p5T1F6SVBCbHFzSG9oMXBONTFpalZyQXc9PQo=",
+      "url": "https://github.com/mudrikam/ciora-video-engine-releases/releases/download/v0.1.104/Ciora.Video.Engine_0.1.104_amd64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaGt2d1RCUTBEM1BiNWlGQ2djTEZFSWJDNjdIME9aaEprNENqY3pUN3J4VXQ0Tnl2a0twV0dleE1XVVVPc1h5MkdaMmYxYmhZT3BVUFJlSHcrNS9vUkZIQ3VkYVhQYXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzUyMjcyCWZpbGU6Q2lvcmEgVmlkZW8gRW5naW5lXzAuMS4xMDRfYW1kNjQuZGViClJERG93THk0cCtqWi9rQTlnRHBPZkhqS3AveUhKUGNDRmZkbnVBWThreVhNUFdHWmgvVXYveTdhcHhFVWRYeEoxVkJuVFp3alRETWdUaUVLTk1pQUNRPT0K",
+      "url": "https://github.com/mudrikam/ciora-video-engine-releases/releases/download/v0.1.104/Ciora.Video.Engine_0.1.104_amd64.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaGt2d1RCUTBEM0xkNTh2Y0xmd1pneVBVaEVXN3E1Mk5WRXcvRTlKb0Q4dFpocjZqUXNaMU1sSHo4WXh5dzU4MDFDNW5qL1dpWXlJWEw2YmtUandHTGZmbE45eGNtV0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzUyMjcyCWZpbGU6Q2lvcmEgVmlkZW8gRW5naW5lLTAuMS4xMDQtMS54ODZfNjQucnBtClFkQThqcVpRdk9BL0tYU25tQ3dhQW5jdFVCWnA5N2dsdDlBV3NQS3ppWWtlT3hWb01tR1Q1QkhzRzdySWdUdkZZelBhT2RTcjRQdG1iQmR3RHB3M0N3PT0K",
+      "url": "https://github.com/mudrikam/ciora-video-engine-releases/releases/download/v0.1.104/Ciora.Video.Engine-0.1.104-1.x86_64.rpm"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaGt2d1RCUTBEM0svZTlQYzlPdDd4QUY0RmY4dGw4TnZaendRRzN1NlBYRzlkMys3cXF1aGI5QjRrRkZKQituMVdoU3EwU0pQUEdTbGlNRXRLM25aV1NWNzZZSzJqYmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzUyNTc0CWZpbGU6Q2lvcmEgVmlkZW8gRW5naW5lXzAuMS4xMDRfeDY0X2VuLVVTLm1zaQozWmcwa1VBdVZ2WVNNUGpmNTJnNThOTjQwTXhzQXM2RElVYVBMNkwxN2ppbnFoVWU0ck9ZTUR5MG9KeXVmZ2NSQ2Nlc2dxVWtNV0tHd1NxblgzcG9Ddz09Cg==",
+      "url": "https://github.com/mudrikam/ciora-video-engine-releases/releases/download/v0.1.104/Ciora.Video.Engine_0.1.104_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaGt2d1RCUTBEM0svZTlQYzlPdDd4QUY0RmY4dGw4TnZaendRRzN1NlBYRzlkMys3cXF1aGI5QjRrRkZKQituMVdoU3EwU0pQUEdTbGlNRXRLM25aV1NWNzZZSzJqYmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzUyNTc0CWZpbGU6Q2lvcmEgVmlkZW8gRW5naW5lXzAuMS4xMDRfeDY0X2VuLVVTLm1zaQozWmcwa1VBdVZ2WVNNUGpmNTJnNThOTjQwTXhzQXM2RElVYVBMNkwxN2ppbnFoVWU0ck9ZTUR5MG9KeXVmZ2NSQ2Nlc2dxVWtNV0tHd1NxblgzcG9Ddz09Cg==",
+      "url": "https://github.com/mudrikam/ciora-video-engine-releases/releases/download/v0.1.104/Ciora.Video.Engine_0.1.104_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaGt2d1RCUTBEM0YxMDhTMm1sOFpCd2xCYWNaM0Z0eENNSkJIS3Zud21VSk9TeXJDTFgvTnZmZmFrQ2V3b3dVUGZob1hZemt1N2dLZzg5aUNjRkdrV0d5ZVg0aFJjM3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzUyNTc0CWZpbGU6Q2lvcmEgVmlkZW8gRW5naW5lXzAuMS4xMDRfeDY0LXNldHVwLmV4ZQpDYWpHWStHeGI2Q0JrLzZvRGxhcFludVBJM3hiTkZCbDRHZ2o4U2xLbFlaV05zQ2ZyMHBiR3VGU2tkU3lLMnRwdHpxUXZWSlc2NFFFcnZzNmdhTUdEdz09Cg==",
+      "url": "https://github.com/mudrikam/ciora-video-engine-releases/releases/download/v0.1.104/Ciora.Video.Engine_0.1.104_x64-setup.exe"
+    }
+  }
+}

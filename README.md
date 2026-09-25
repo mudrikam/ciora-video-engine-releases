@@ -4,41 +4,41 @@
 
 ![Ciora Video Engine Banner](https://raw.githubusercontent.com/mudrikam/ciora-video-engine-releases/main/assets/banner.png)
 
-### **Programmatic Video Creation Meets Agentic Intelligence.**
+### **Bikin Video Keren Berbasis Kode, Didampingi Asisten AI.**
 
 [![Latest Release](https://img.shields.io/github/v/release/mudrikam/ciora-video-engine-releases?style=flat-square&color=f97316)](https://github.com/mudrikam/ciora-video-engine-releases/releases/latest)
 [![Platform Support](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=flat-square)](https://github.com/mudrikam/ciora-video-engine-releases/releases)
 [![Built with Tauri](https://img.shields.io/badge/built%20with-Tauri%20v2-24c8db?style=flat-square&logo=tauri&logoColor=white)](https://tauri.app)
 [![Powered by Remotion](https://img.shields.io/badge/engine-Remotion-0b84f3?style=flat-square)](https://remotion.dev)
-[![Copilot by Hermes](https://img.shields.io/badge/copilot-Hermes%20Agent-purple?style=flat-square)](https://hermes-agent.nousresearch.com)
+[![Copilot by Hermes](https://img.shields.io/badge/copilot-Hermes%20Copilot-purple?style=flat-square)](https://hermes-agent.nousresearch.com)
 
 **Selamat datang di pusat rilis resmi Ciora Video Engine (CVE)!**  
-Repositori ini adalah rumah tempat seluruh paket biner instalasi, rilis portabel, serta saluran pembaruan otomatis (*autonomous background updater*) untuk sistem operasi **Windows**, **macOS**, dan **Linux** didistribusikan secara resmi.
+Di sini kamu bisa mengunduh installer resmi, paket portabel, dan mendapatkan pembaruan otomatis untuk **Windows**, **macOS**, dan **Linux**.
 
-[Unduh Versi Terbaru](#-unduh-ciora-video-engine) • [Fitur Unggulan](#-kenapa-ciora-video-engine) • [Cara Pasang](#-panduan-instalasi-cepat) • [Ekosistem CIORA](https://ciora.id)
+[Unduh Aplikasi](#-unduh-ciora-video-engine) • [Keunggulan Utama](#-keunggulan-ciora-video-engine) • [Panduan Pasang](#-panduan-instalasi-cepat) • [Ekosistem CIORA](https://ciora.id)
 
 ---
 
 </div>
 
-## ✨ Kenapa Ciora Video Engine?
+## 💡 Keunggulan Ciora Video Engine
 
-Bikin video berkualitas studio gak harus ribet dengan timeline video konvensional yang kaku. **Ciora Video Engine** menggabungkan kekuatan rendering berbasis kode (**Remotion React**), arsitektur desktop bertenaga biner native (**Rust & Tauri v2**), serta pendampingan asisten AI otonom (**Hermes Agent Copilot**).
+Bikin video animasi berkualitas studio sekarang gak harus pusing dengan timeline video manual yang kaku. **Ciora Video Engine** menggabungkan fleksibilitas render berbasis kode (**Remotion React**), kecepatan aplikasi desktop native (**Rust & Tauri v2**), serta kecerdasan asisten AI (**Hermes Copilot**).
 
 ```text
   ┌────────────────────────────────────────────────────────────────────────┐
   │                        CIORA VIDEO ENGINE                              │
   ├───────────────────────┬───────────────────────┬────────────────────────┤
-  │   ⚛️ Remotion Engine  │   🦀 Rust Native Core │   🧠 Hermes AI Copilot │
-  │   Render video via    │   Super ringan, hemat │   Bikin animasi & alur │
-  │   kode React & Web    │   RAM & CPU hardware  │   video via instruksi  │
+  │   ⚛️ Remotion Engine  │   🦀 Rust Native Core │   🧠 Hermes Copilot    │
+  │   Bikin animasi via   │   Ringan, ngebut,     │   Bantu buat scene &   │
+  │   kode React & CSS    │   dan hemat memori    │   alur video otomatis  │
   └───────────────────────┴───────────────────────┴────────────────────────┘
 ```
 
-- ⚡ **Super Ringan & Hemat RAM:** Dibangun di atas fondasi native Rust tanpa bloatware browser berat.
-- 🎨 **Programmatic Video:** Render animasi teks, kinetic typography, grafik, dan motion design dengan presisi frame-by-frame.
-- 🤖 **Hermes Copilot Terintegrasi:** Bicara langsung dengan asisten AI di sidebar untuk membuat scene, menulis skrip komposisi, atau memodifikasi timeline secara instan.
-- 🔄 **Seamless Silent Update:** Mirip VS Code, kamu gak perlu repot download ulang installer saat ada fitur baru. Aplikasi akan memperbarui dirinya secara otomatis dan siap dipakai!
+- ⚡ **Ringan & Hemat Memori:** Dibangun langsung di atas mesin native Rust, bukan browser berat yang memakan banyak RAM.
+- 🎨 **Animasi Presisi Berbasis Kode:** Kendalikan pergerakan teks, transisi scene, tipografi kinetik, dan grafis visual frame-by-frame dengan akurasi tinggi.
+- 🤖 **Hermes Copilot Siap Membantu:** Cukup ketik ide atau instruksimu di panel chat, asisten AI langsung meracik kode scene, komposisi, dan asetnya untukmu.
+- 🔄 **Update Mulus Otomatis:** Persis seperti VS Code, kamu gak perlu repot download ulang installer setiap ada fitur baru. Aplikasi akan memperbarui dirinya sendiri di latar belakang!
 
 ---
 

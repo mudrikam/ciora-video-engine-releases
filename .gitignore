@@ -1,0 +1,53 @@
+# Kilo & IDE files
+.kilo/
+.kilo*
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Environment & Secrets
+.env
+.env.*
+*.pem
+*.key
+*.cert
+
+# Node & Package Managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Temporary & Build Output
+dist/
+build/
+out/
+tmp/
+temp/
+*.tmp
+*.log
+
+# Large Binaries / Release Artifacts (Should be uploaded to GitHub Releases, not git repo tree)
+*.exe
+*.msi
+*.dmg
+*.app
+*.AppImage
+*.deb
+*.rpm
+*.zip
+*.tar.gz
+*.tar.xz
+*.7z

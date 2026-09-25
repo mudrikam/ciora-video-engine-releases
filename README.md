@@ -25,15 +25,9 @@ Di sini kamu bisa mengunduh installer resmi, paket portabel, dan mendapatkan pem
 
 Bikin video animasi berkualitas studio sekarang gak harus pusing dengan timeline video manual yang kaku. **Ciora Video Engine** menggabungkan fleksibilitas render berbasis kode (**Remotion React**), kecepatan aplikasi desktop native (**Rust & Tauri v2**), serta kecerdasan asisten AI (**Hermes Copilot**).
 
-```text
-  ┌────────────────────────────────────────────────────────────────────────┐
-  │                        CIORA VIDEO ENGINE                              │
-  ├───────────────────────┬───────────────────────┬────────────────────────┤
-  │   ⚛️ Remotion Engine  │   🦀 Rust Native Core │   🧠 Hermes Copilot    │
-  │   Bikin animasi via   │   Ringan, ngebut,     │   Bantu buat scene &   │
-  │   kode React & CSS    │   dan hemat memori    │   alur video otomatis  │
-  └───────────────────────┴───────────────────────┴────────────────────────┘
-```
+| ⚛️ Remotion Engine | 🦀 Rust Native Core | 🧠 Hermes Copilot |
+| :--- | :--- | :--- |
+| **Animasi Berbasis Kode**<br>Render komponen React & CSS menjadi video frame-by-frame | **Ngebut & Hemat Memori**<br>Biner desktop native super ringan tanpa membebani RAM | **Asisten AI Terintegrasi**<br>Bantu racik scene, alur komposisi, dan timeline otomatis |
 
 - ⚡ **Ringan & Hemat Memori:** Dibangun langsung di atas mesin native Rust, bukan browser berat yang memakan banyak RAM.
 - 🎨 **Animasi Presisi Berbasis Kode:** Kendalikan pergerakan teks, transisi scene, tipografi kinetik, dan grafis visual frame-by-frame dengan akurasi tinggi.

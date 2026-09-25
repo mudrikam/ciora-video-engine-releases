@@ -94,6 +94,25 @@ Kamu tidak perlu mengecek halaman rilis ini setiap hari untuk mendapatkan fitur 
 
 ---
 
+## 📦 Dependensi & Keterbukaan Sumber Daya (*Open Source Disclosure*)
+
+Ciora Video Engine berdiri di atas pundak ekosistem *open-source* dan teknologi kelas dunia. Sebagai bentuk apresiasi, transparansi, dan kepatuhan terhadap lisensi, berikut adalah teknologi inti yang menggerakkan CVE beserta tautan repositori resminya:
+
+| Proyek / Dependensi | Lisensi | Peran di CVE | Tautan Repositori Resmi |
+| :--- | :--- | :--- | :--- |
+| **Tauri v2** | Apache-2.0 / MIT | Fondasi desktop native, manajemen jendela, IPC bridge, dan sistem auto-update | [github.com/tauri-apps/tauri](https://github.com/tauri-apps/tauri) |
+| **Remotion** | Remotion License | Engine rendering animasi, manajemen frame, dan komposisi video berbasis kode React | [github.com/remotion-dev/remotion](https://github.com/remotion-dev/remotion) |
+| **Hermes Agent** | MIT | Asisten AI otonom (*Copilot*) untuk pembuatan scene, skrip, dan otomasi alur video | [github.com/NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) |
+| **FFmpeg** | LGPL 2.1+ / GPL | Biner native encoding/muxing performa tinggi untuk konversi video ke MP4, WebM, ProRes | [github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) |
+| **Node.js** | MIT | Runtime JavaScript lokal untuk mengeksekusi Remotion dev server dan bundler | [github.com/nodejs/node](https://github.com/nodejs/node) |
+| **React** | MIT | Framework antarmuka pengguna untuk player studio dan kanvas video interaktif | [github.com/facebook/react](https://github.com/facebook/react) |
+| **Vite** | MIT | Build tool dan Hot Module Replacement (HMR) sub-detik untuk live preview video | [github.com/vitejs/vite](https://github.com/vitejs/vite) |
+| **Lucide Icons** | ISC | Kumpulan ikon grafis elegan yang digunakan di seluruh panel antarmuka CVE | [github.com/lucide-icons/lucide](https://github.com/lucide-icons/lucide) |
+
+*Seluruh hak cipta, merek dagang, dan kepemilikan intelektual dari proyek-proyek di atas tetap menjadi milik masing-masing pencipta dan kontributor aslinya.*
+
+---
+
 ## 🤝 Komunitas & Dukungan
 
 Ada pertanyaan, butuh bantuan seputar workflow video, atau ingin berbagi karya animasi yang kamu buat?

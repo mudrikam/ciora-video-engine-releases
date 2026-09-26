@@ -108,6 +108,7 @@ Ciora Video Engine berdiri di atas pundak ekosistem *open-source* dan teknologi 
 | **React** | MIT | Framework antarmuka pengguna untuk player studio dan kanvas video interaktif | [github.com/facebook/react](https://github.com/facebook/react) |
 | **Vite** | MIT | Build tool dan Hot Module Replacement (HMR) sub-detik untuk live preview video | [github.com/vitejs/vite](https://github.com/vitejs/vite) |
 | **Lucide Icons** | ISC | Kumpulan ikon grafis elegan yang digunakan di seluruh panel antarmuka CVE | [github.com/lucide-icons/lucide](https://github.com/lucide-icons/lucide) |
+| **Beautiful UI** | MIT | Pola desain dan komponen interaktif chat agent (ToolChips, ApprovalCard, TaskRows, CodeBlock Diff) | [beautifului.dev](https://www.beautifului.dev/) |
 
 *Seluruh hak cipta, merek dagang, dan kepemilikan intelektual dari proyek-proyek di atas tetap menjadi milik masing-masing pencipta dan kontributor aslinya.*
 
